@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>MYM Home</title>
+   <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    </head>
+    <body>
+        <div class="wrapper"> 
+        <header>
+            <h1>MYM</h1>
+<nav id="nav">
+  <ul>
+    <li><a class="active" href="mainsite.html"><img src="house.png"></i>Home</a></li>
+    <li><a href="Shop.html"><img src="shopping.png"></i>Shop</a>
+         <ul>
+             <li><a href="shop-website.html">Website</a></li>
+            <li><a href="shop-gifts.html">Gifts</a></li>
+             </ul>
+            </li>
+        <li><a href="About.html"><img src="info.png"></i>About Us</a></li>
+           <li><a><img src="contact.png"></i>Contact</a>
+                   <ul>
+                   <li><a href="mailto:">E-Mail</a></li>
+                   <li><a href="#">Facebook</a></li>
+                   <li><a href="#">Twitter</a></li>
+                </ul>
+           </li>
+<form action="www.mymweb.com">
+<input type="search" name="search" placeholder="Search..."/>
+<span class=arrow>
+    <button>Search</button>
+    </span>
+</form>
+</ul>
+</nav>
+</header>
+<section class="Info">    
+    <article class=box2 style="margin-top:1em">
+        <figure>
+        <img src="MYM%20logo.png"/>
+        </figure>
+        <hgroup>      
+            <h2>Welcome</h2>      
+            <h3>What can you find on our site?</h3>     
+        </hgroup>
+        <p>Welcome to our site were you can request a website for your company. You can do that by clicking on the Contact tab and choose Mail. You can look for yourself how different classes of websites look like by either clicking on the 'Website Fonts' bar or by clicking the 'Shop' tab and select 'Website'. You can also buy office supplies with your company name on it in our gift shop.</p>
+        <aside>    
+    <section class="box1">     
+        <h2>Website Fonts</h2>     
+        <a href="">Amateur</a>     
+        <a href="">Semi-Professional</a>     
+        <a href="">Professional</a>
+    </section> 
+</aside>   
+    </article>           
+</section>
+<footer>    &copy; 2016 MYMWEB
+</footer> 
+</div>
+    </body>
+</html>
